@@ -31,7 +31,7 @@ if len(sys.argv) > 2:
 	num_events = int(sys.argv[2])
 
 # prefix for the output file
-prefix = ""
+prefix = "/media/radio/Samsung_T3/CP-510/data"
 if( len(sys.argv) > 3):
 	prefix=sys.argv[3]+"_"
 
