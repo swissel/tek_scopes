@@ -3,7 +3,7 @@
     taken from tektronix programmers manual
 """
 from collections import *
-from link import *
+from tek_scope.link import *
 import numpy as np
 #from tex_channel import *
 
